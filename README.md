@@ -4,4 +4,4 @@
 
  <h1>  这是一个非常好的交互式说明 </h1>
 
-<image src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTusoSfnmndO6qB4xtGz1KJXwsOEIV_DcDsj0wv1JflZ2qKw8i-o78W7L-ITwXXaL0GmE&usqp=CAU />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTusoSfnmndO6qB4xtGz1KJXwsOEIV_DcDsj0wv1JflZ2qKw8i-o78W7L-ITwXXaL0GmE&usqp=CAU />
