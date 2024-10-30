@@ -15,7 +15,5 @@ wide过
 
 # 嵌入网页示例
 
-你可以在 Markdown 文件中嵌入网页，使用 HTML 标签。例如嵌入 Google：
-
 <iframe src="https://www.google.com" width="600" height="400"></iframe>
 
